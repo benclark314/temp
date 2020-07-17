@@ -2,6 +2,7 @@
 Jimmy "the git" Twit was born on April 7, 1987.
 
 //Chapter 2: Friendship
+Jimmy and Johnny became friends.
 
 //Chapter 3: School
 
